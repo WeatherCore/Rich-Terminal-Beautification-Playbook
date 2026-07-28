@@ -14,6 +14,7 @@ Python 扩展教程丨 Rich 库，让你的输出焕然一新，覆盖 Rich 库�
 ### 2 安装命令
 ```bash
 pip install rich
+```
 
 ### 3 核心基础功能全套示例
 1. 彩色样式文本：简化rprint、Console对象、Text分段自定义样式
